@@ -1,3 +1,19 @@
+## 1.1.0
+
+- rename application to darts-gif
+- remove gfycat.com
+
+
+## 1.0.17
+
+- switch to socketio-client
+
+
+## 1.0.16
+
+- fix ws bug
+
+
 ## 1.0.15
 
 - add wss support
